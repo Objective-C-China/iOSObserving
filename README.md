@@ -1,4 +1,3 @@
-##微信公众号:
 
 ![学习流程图](https://github.com/minggo620/iOSRuntimeLearn/blob/master/picture/gongzhonghao.jpg?raw=true)
 #谈KVC、KVO（重点观察者模式）机制编程
