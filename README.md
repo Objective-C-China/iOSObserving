@@ -1,5 +1,4 @@
 
-![学习流程图](https://github.com/minggo620/iOSRuntimeLearn/blob/master/picture/gongzhonghao.jpg?raw=true)
 #谈KVC、KVO（重点观察者模式）机制编程
 [![Support](https://img.shields.io/badge/support-iOS%207%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
@@ -190,8 +189,7 @@ Sun公司早早就把观察者模式视为重要的模式，并在Java中提供�
 
 ###六.效果图更直观
 ![效果图](http://upload-images.jianshu.io/upload_images/1252638-596cd6fc268d7d51.gif?imageMogr2/auto-orient/strip)
-###七.源码下载地址更详细
-#####*[https://github.com/minggo620/iOSObserving.git](https://github.com/minggo620/iOSObserving.git)*
+
 
 ####Laughing哥如果见到我，估计会说：“小明，其实我真实的名字叫~谢天华！”
 
